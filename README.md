@@ -10,7 +10,7 @@ Java Developer at <a href="https://www.anz.co.nz/" target="_blank"><b>ANZ</b></a
 
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
-![Node.js](http://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=ffffff)
+![Node.js](http://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)
 ![Maven](http://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
