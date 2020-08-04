@@ -1,5 +1,5 @@
 # Hey 💃🏽, I'm Vanessa da Silva 
-[![Linkedin](https://img.shields.io/badge/-vanessavps-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessavps/)](https://www.linkedin.com/in/vanessavps/) [![HitCount](http://hits.dwyl.com/vanessavps/vanessavps.svg)](http://hits.dwyl.com/vanessavps/vanessavps)
+[![Linkedin](https://img.shields.io/badge/-vanessavps-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessavps/)](https://www.linkedin.com/in/vanessavps/)
 
 
 ## 👩🏽‍💻 Currently working as
