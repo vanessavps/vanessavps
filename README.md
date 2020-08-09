@@ -1,5 +1,6 @@
 
-![Banner](header.png?raw=true "Title")
+<img src="https://raw.githubusercontent.com/vanessavps/vanessavps/master/header.png" alt="banner that says Vanessa da Silva - Software developer">
+
 
 
 ## 👩🏽‍💻 Currently working as
