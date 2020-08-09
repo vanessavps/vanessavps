@@ -1,5 +1,5 @@
-# Hey 💃🏽, I'm Vanessa da Silva 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessavps/)](https://www.linkedin.com/in/vanessavps/)
+
+![Banner](header.png?raw=true "Title")
 
 
 ## 👩🏽‍💻 Currently working as
@@ -25,3 +25,6 @@ Java Developer at <a href="https://www.anz.co.nz/" target="_blank"><b>ANZ</b></a
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket)
+
+## 💬 Where you can find me
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessavps/)](https://www.linkedin.com/in/vanessavps/) [![Gmail](https://img.shields.io/badge/-Gmail-ff0000?style=flat-square&logo=gmail&logoColor=white&link=mailto:vanessa.vps29@gmail.com)](mailto:vanessa.vps29@gmail.com)
