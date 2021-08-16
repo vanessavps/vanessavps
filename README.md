@@ -1,5 +1,6 @@
 
-![Banner](header.png?raw=true "Title")
+<img src="https://raw.githubusercontent.com/vanessavps/vanessavps/master/header.png" alt="banner that says Vanessa da Silva - Software developer">
+
 
 
 ## 👩🏽‍💻 Currently working as
@@ -15,7 +16,8 @@ Java Developer at <a href="https://www.anz.co.nz/" target="_blank"><b>ANZ</b></a
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=ffffff)
+![Ember](https://img.shields.io/badge/-Ember.js-E04E39?style=flat-square&logo=ember.js&logoColor=ffffff)
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](http://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
@@ -25,6 +27,7 @@ Java Developer at <a href="https://www.anz.co.nz/" target="_blank"><b>ANZ</b></a
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket)
+
 
 ## 💬 Where you can find me
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessavps/)](https://www.linkedin.com/in/vanessavps/) [![Gmail](https://img.shields.io/badge/-Gmail-ff0000?style=flat-square&logo=gmail&logoColor=white&link=mailto:vanessa.vps29@gmail.com)](mailto:vanessa.vps29@gmail.com)
