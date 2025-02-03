@@ -3,7 +3,7 @@
 
 
 ## 👩🏽‍💻 Currently working as
-Java Developer at <a href="https://www.anz.co.nz/" target="_blank"><b>ANZ</b></a>
+Development Team Leader at <a href="https://www.anz.co.nz/" target="_blank"><b>Centricminds</b></a>
 
 
 ## 💻	Tech Stack
