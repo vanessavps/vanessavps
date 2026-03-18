@@ -1,5 +1,5 @@
 
-![Banner](header-v2.png?raw=true "Title")
+![Banner](GithubBanner.png?raw=true "Title")
 
 
 ## 👩🏽‍💻 About me
